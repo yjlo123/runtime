@@ -5,3 +5,6 @@ class BaseApp:
 
 	def set_icon():
 		self.icon = []
+
+	def run():
+		"123"
